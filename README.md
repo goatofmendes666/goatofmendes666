@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @goatofmendes666
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @GarvAgarwal
+- 👀 I’m interested in Web Development and Software development
+- 🌱 I’m currently learning Git, GitLab and Github
+- 💞️ I’m looking to collaborate on Developing Web-sites
+- 📫 How to reach me https://www.linkedin.com/in/garv-agarwal-270013211/
 
 <!---
-goatofmendes666/goatofmendes666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+garvagarwal/garvagarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
