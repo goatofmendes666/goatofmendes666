@@ -65,9 +65,3 @@
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/goatofmendes666/goatofmendes666/output/snake.svg" alt="Snake animation" />
-
-###
