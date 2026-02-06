@@ -48,6 +48,18 @@
 
 ###
 
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://nirzak-streak-stats.vercel.app/?user=goatofmendes666&theme=dark&hide_border=true"
+        alt="GitHub streak stats"
+      />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=goatofmendes666&radius=16&theme=cobalt&area=true&order=5&custom_title=My%20Contribution%20Graph&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
@@ -84,11 +96,11 @@
 
 <br clear="both">
 
-<img align="right" height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5hb3Y5ZTJvbDU5bTd2d3FuZG94bmphcW44MG5jb2Y4N3Y5Z3dyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.webp"  />
+<img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5hb3Y5ZTJvbDU5bTd2d3FuZG94bmphcW44MG5jb2Y4N3Y5Z3dyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.webp"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31ow3mxvb5aiy42vwlb3hsgikw2q">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ow3mxvb5aiy42vwlb3hsgikw2q&count=5&unique=true" alt="Spotify recently played"  />
   </a>
