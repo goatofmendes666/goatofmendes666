@@ -48,18 +48,6 @@
 
 ###
 
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://nirzak-streak-stats.vercel.app/?user=goatofmendes666&theme=dark&hide_border=true"
-        alt="GitHub streak stats"
-      />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=goatofmendes666&radius=16&theme=cobalt&area=true&order=5&custom_title=My%20Contribution%20Graph&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
